@@ -25,7 +25,7 @@ Face recognition system using siamese neural network and facenet for facial reco
 
 Download the lfw(negative images)dataset from :http://vis-www.cs.umass.edu/lfw/
 
-Download Project Zip file from : https://github.com/Namrata2615/SPAM-HAM-CLASSIFIER
+Download Project Zip file from : https://github.com/Namrata2615/Face-Recognition-System_Updated/tree/main
 
 🛠️ Requirements
 
