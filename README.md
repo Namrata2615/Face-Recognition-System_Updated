@@ -29,7 +29,7 @@ Download Project Zip file from : https://github.com/Namrata2615/Face-Recognition
 
 🛠️ Requirements
 
-Python 3.9.7
+Python 3.9.7 environment on anaconda prompt.
 
 📖 Instructions to run
 
