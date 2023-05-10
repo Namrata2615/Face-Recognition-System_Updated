@@ -41,7 +41,7 @@ Python 3.9.7
 
 🎯NOTE
 
-1)This project is just a demo on the face captured for anchor and positive images and images extracted from lfw dataset.
+1)This project is just a demo on the face captured for anchor and positive images and negative images are extracted from lfw dataset.
 
 2)While running the zip file if any difficulty is found like library is not installed , just type pip install(library name) command on anaconda prompt under same environment.
 
