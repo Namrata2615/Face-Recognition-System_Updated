@@ -11,7 +11,7 @@ STEPS:
 
 5)Creating the Model.
 
-6)Creating object file for the model.
+6)Creating object file for the model(siamesemodelv2.h5).
 
 NOTE :
 
