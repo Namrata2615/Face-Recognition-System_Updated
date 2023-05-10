@@ -1,7 +1,7 @@
 # Face-Recognition-System_Updated
 STEPS:
 
-1)Capture positive and anchor images from webcam into data folder(containing negative and positive folder).
+1)Capture positive and anchor images from webcam using computer vision into data folder(containing negative and positive folder).
 
 2)Extract negative images from lfw dataset.
 
