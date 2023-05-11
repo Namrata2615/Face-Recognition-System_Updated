@@ -5,13 +5,15 @@ STEPS:
 
 2)Extract negative images from lfw dataset.
 
-3)Splitting data into train and test split.
+3)Dataloader Pipeline is created.
 
-4)Applying Siamese neural network and facenet algorithm for face similarity match for facial recognition(identification) and verification purpose.
+4)Splitting data into train and test split.
 
-5)Creating the Model.
+5)Applying Siamese neural network and facenet algorithm for face similarity match for facial recognition(identification) and verification purpose.
 
-6)Creating object file for the model(siamesemodelv2.h5).
+6)Creating the Model.
+
+7)Creating object file for the model(siamesemodelv2.h5).
 
 NOTE :
 
